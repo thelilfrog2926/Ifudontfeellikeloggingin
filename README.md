@@ -2,5 +2,6 @@
 ------------------------------------------------------
 https://duckduckgo.com
 -----------------------------------------------------
-https://www.desmos.com/testing/texas/graphing
+[Desmos](https://www.desmos.com/testing/texas/graphing)
 ---------------------------------------------------
+[ClassLink](https://launchpad.classlink.com/hebisd)
